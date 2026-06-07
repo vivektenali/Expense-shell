@@ -24,7 +24,7 @@ An expense management application where users can record and categorize their ex
 - Backend (Node.js 20)
 - Database (MySQL 8.0)
 - Servers - AWS EC2 RHEL
-- DNS - AWS 
+- DNS - AWS Route53
 
 ## About
 
